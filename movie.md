@@ -7,3 +7,4 @@ Lead Developer: Michael Cera
 President: Donald Trump
 Head of Military: Kim Jung Un
 Engineers: Make School Nerds
+Head of Destruction: Kernal Daemon

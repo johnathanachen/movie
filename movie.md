@@ -7,3 +7,4 @@ Lead Developer: Michael Cera
 President: Rick Sanchez
 Head of Military: Putin
 Engineers: Make School Nerds
+Head of Destruction: Kernal Daemon
